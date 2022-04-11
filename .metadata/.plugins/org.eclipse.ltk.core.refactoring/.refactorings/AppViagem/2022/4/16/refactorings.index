@@ -1,0 +1,33 @@
+1649630779822	Delete element
+1649630786413	Delete element
+1649630793860	Delete element
+1649630796770	Delete element
+1649630802320	Delete element
+1649630804710	Delete element
+1649631069972	Delete element
+1649632163695	Rename type 'ProfissionalController'
+1649632318295	Rename type 'Profissional'
+1649632426286	Rename type 'ProfissionalRepository'
+1649632980120	Rename compilation unit 'EmpresaController.java'
+1649632991190	Rename type 'Empresa'
+1649633024307	Rename type 'EmpresaRepository'
+1649633819517	Rename resource 'update-profissional.html'
+1649633826098	Rename resource 'lista-profissional.html'
+1649633831789	Rename resource 'form-profissional.html'
+1649633838492	Rename resource 'detalhes-profissional.html'
+1649633843977	Rename resource 'profissional'
+1649636019561	Rename resource 'empresa'
+1649636028191	Rename resource 'detalhes-empresa.html'
+1649636035353	Rename resource 'form-empresa.html'
+1649636041729	Rename resource 'lista-empresa.html'
+1649636047754	Rename resource 'update-empresa.html'
+1649638127328	Move folder
+1649638833149	Delete element
+1649638836122	Move 'pacote' to 'templates'
+1649638949548	Rename package 'AppPsico.AppPsico'
+1649638998843	Rename package 'AppViagem.AppViagem'
+1649639075724	Rename package 'AppPsico.AppPsico'
+1649639091742	Rename package 'AppPsico.AppPsico.repository'
+1649639105983	Rename package 'AppPsico.AppPsico.models'
+1649639123709	Rename package 'AppPsico.AppPsico.controllers'
+1649639142869	Rename type 'AppPsicoApplication'

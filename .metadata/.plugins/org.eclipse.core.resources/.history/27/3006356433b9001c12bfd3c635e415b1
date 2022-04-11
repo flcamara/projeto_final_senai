@@ -1,0 +1,17 @@
+package AppPsico.AppPsico.repository;
+
+import AppPsico.AppPsico.models.Pacote;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.CrudRepository;
+
+import java.util.List;
+
+public interface PacoteRepository extends CrudRepository<Pacote, Long> {
+
+    Pacote findById(long id);
+    Pacote findByDestino(String destino);
+
+    // Query para a busca
+    @Query(value = "select u from Pacote u where u.destino like %?1%")
+    List<Pacote> findByDestinosPacote(String destino);
+}
